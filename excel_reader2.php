@@ -30,7 +30,7 @@
  * maintained by David Sanders.  Reads only Biff 7 and Biff 8 formats.
  *
  * PHP versions 4 and 5
- *
+ * 
  * LICENSE: This source file is subject to version 3.0 of the PHP license
  * that is available through the world-wide-web at the following URI:
  * http://www.php.net/license/3_0.txt.  If you did not receive a copy of
